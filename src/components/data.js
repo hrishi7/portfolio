@@ -34,32 +34,32 @@ export const profileInfo = {
     {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwN6Cq6ebZqXJUhgBBP5kCpLoygAJfXAgUd0OsnN4ccMOt1yIDCrzD1rnHIAt6Z7jrEM&usqp=CAU",
-      github: "https://github.com/hrishi7",
-      deploy: "https://github.com/hrishi7",
-      heading: "Some project 1",
+      github: "https://github.com/hrishi7/flask-bookmark-rest-api",
+      deploy: "https://bookmark-api-rest.herokuapp.com/",
+      heading: "Restfull API with python flask, sqite",
       short_descp:
-        "good project good projectgood projectgood projectgood projectgood projectgood projectgood project",
+        "Restfull api service created with python flask framework using sql database with following best industry practices, code modularity, code quality and api documentated with swagger",
     },
     {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwN6Cq6ebZqXJUhgBBP5kCpLoygAJfXAgUd0OsnN4ccMOt1yIDCrzD1rnHIAt6Z7jrEM&usqp=CAU",
-      github: "https://github.com/hrishi7",
-      deploy: "https://github.com/hrishi7",
-      heading: "Some project 1",
+      github: "https://github.com/hrishi7/fashion-star-customer-frontend",
+      deploy: "https://fashiondune.com/",
+      heading: "FashionDune",
       short_descp:
-        "good project good projectgood projectgood projectgood projectgood projectgood projectgood project",
+        "Shopping website where whole-seller can sell there products and people will get quality products like clothes,accessories at lowest price",
     },
   ],
   experiences: [
     {
-      company: "ExtraInsights",
-      startOn: "June,2020",
-      endOn: "April, 2021",
+      company: "Appstone Pvt. Ltd",
+      startOn: "April, 2021",
+      endOn: "Present",
       position: "FullStack Developer",
-      tech: "Mongodb, Node.js, Angular, React",
+      tech: "Mongodb, Node.js, Next.js, React",
       impact:
-        "Implemented News Feed system for serving to each specific user, improvement in user engagement in the site",
-      location: "Kolkata, WB",
+        "Worked on several projects like doctor appointment system, online courses streaming site etc.",
+      location: "Bengaluru, Karnataka",
     },
     {
       company: "ExtraInsights",
@@ -70,6 +70,16 @@ export const profileInfo = {
       impact:
         "Implemented News Feed system for serving to each specific user, improvement in user engagement in the site",
       location: "Kolkata, WB",
+    },
+    {
+      company: "SwitchOn",
+      startOn: "Dec,2019",
+      endOn: "March, 2020",
+      position: "FullStack Developer Intern",
+      tech: "Mongodb, Node.js, React, Material UI",
+      impact:
+        "I had a great experience over working in a startup. Learning a lot about real world software development best practices.",
+      location: "Bengaluru, Karnataka",
     },
   ],
   education: [
@@ -77,6 +87,12 @@ export const profileInfo = {
       degree: "B.Tech",
       passout: "2020",
       college: "CIEM (MAKAUT)",
+      location: "Kolkata, WB",
+    },
+    {
+      degree: "Diploma in Computer Science",
+      passout: "2017",
+      college: "CCP (AICTE)",
       location: "Kolkata, WB",
     },
   ],
